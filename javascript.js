@@ -21,7 +21,7 @@ document.getElementById("play").onclick=start;
 
 function start(){
     document.getElementById("play").style.color="Red"
-    //window.location.href = "file:///C:/Users/darsh/Desktop/Tic%20Tac%20Toe/grid.html";
+    //window.location.href = "file:///C:/Users/darsh/Desktop/Tic%20Tac%20Toe/grid2.html";
 
     play=true;
     console.log("inside start")
@@ -50,7 +50,7 @@ function start(){
 }
 function startOnePlayer(){
     console.log("Inside One Player")
-    window.location.href = "https://github.com/DarshitGupta28/DarshitGupta28.github.io/blob/master/grid.html";
+    window.location.href = "https://github.com/DarshitGupta28/DarshitGupta28.github.io/blob/master/grid2.html";
 
 }
 function startTwoPlayer(){
