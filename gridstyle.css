@@ -1,0 +1,45 @@
+body{
+  background-color: cadetblue;
+  font-family: cursive;
+}
+
+.game-board
+{
+	width: 375px;
+	height: 375px;
+  position: relative;
+	/* margin: 0 auto; */
+  
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.5% !important ;
+  background-color: #1f3142;
+  color: #fff;
+  border: 6px solid #1d2d3d;
+  border-radius: 10px;
+	
+	display: grid;
+	grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+
+h1{
+  font-size: 75px;
+  text-align: center;
+  color:rgb(15, 1, 54);
+  margin-bottom: 2%;
+}
+.box
+{
+  border: 6px solid #2c3e50;
+  border-radius: 2px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  margin: 0.5%;
+}
