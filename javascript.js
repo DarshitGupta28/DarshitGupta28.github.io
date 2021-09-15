@@ -50,12 +50,12 @@ function start(){
 }
 function startOnePlayer(){
     console.log("Inside One Player")
-    window.location.href = "https://github.com/DarshitGupta28/DarshitGupta28.github.io/blob/master/grid2.html";
+    window.location.href = "grid2.html";
 
 }
 function startTwoPlayer(){
     console.log("Inside Two Player")
-    window.location.href = "https://github.com/DarshitGupta28/DarshitGupta28.github.io/blob/master/grid.html";
+    window.location.href = "grid.html";
 
 }
 
