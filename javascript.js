@@ -50,12 +50,12 @@ function start(){
 }
 function startOnePlayer(){
     console.log("Inside One Player")
-    window.location.href = "file:///C:/Users/darsh/Desktop/Tic%20Tac%20Toe/grid2.html";
+    window.location.href = "https://github.com/DarshitGupta28/DarshitGupta28.github.io/blob/master/grid.html";
 
 }
 function startTwoPlayer(){
     console.log("Inside Two Player")
-    window.location.href = "file:///C:/Users/darsh/Desktop/Tic%20Tac%20Toe/grid.html";
+    window.location.href = "https://github.com/DarshitGupta28/DarshitGupta28.github.io/blob/master/grid.html";
 
 }
 
